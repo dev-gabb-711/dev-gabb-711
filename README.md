@@ -6,9 +6,9 @@ I'm a second-year **BS Computer Science** student at **De La Salle University**,
 
 I’m a developer with a strong interest in building systems that are **accessible, interactive, and efficient**. My areas of interest include **automation, artificial intelligence and machine learning, game development, and web development**. I enjoy exploring how software can solve real-world problems while creating engaging user experiences.
 
-This space contains a collection of **personal projects** as well as projects developed as part of my coursework at DLSU. I’m always excited to experiment with new technologies, collaborate on interesting ideas, and continuously expand my knowledge in the ever-evolving world of software development.
+This space contains a collection of **personal projects** as well as projects developed as part of my coursework at DLSU. I’m always excited to experiment with new technologies, collaborate on interesting ideas, and continuously expand my knowledge in the ever-evolving world of coding.
 
-Outside of programming, I enjoy **playing the piano, gaming, reading fiction, and the occasional doom-scrolling session**.
+Outside of programming, I enjoy **playing the piano, gaming, reading fiction**, and the occasional doom-scrolling session.
 
 
 ### 🛠 My Tech Stack
