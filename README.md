@@ -14,26 +14,23 @@ I love playing the piano, playing video games, reading fiction literature, and o
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,python,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,python,html,css,js,matlab" />
+  </a>
+</p>
+
+### ⚙️ Libraries/Tools/Frameworks I've Worked With
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,mysql,mongodb,flask,nodejs,github,dotnet,express,bootstrap,jquery,mongodb" />
   </a>
 </p>
 
 ### 🚀 About Me
 
-- 🔭 I am currently working on **[Project Name]**
-- 🌱 I am currently learning **[New Skill or Framework]**
-- 💬 Ask me about **Web Development, JavaScript, or Backend Systems**
-- 📫 How to reach me: **[Your Email or LinkedIn]**
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-gabb-711&show_icons=true&theme=transparent" alt="dev-gabb-711 stats" />
-</p>
-
----
-
-*“Code is like humor. When you have to explain it, it is bad.”*
+- 🔭 I am currently working on **Reserve-Plus-Plus** and **GUI of Micro Explorer**
+- 🌱 I am currently learning **React and Tailwind CSS**
+- 💬 Ask me about **Accessibility and Interactability Applications, AI/ML/RL/State-Based Models, Automation, Robotics, Web Development**
+- 📫 How to reach me: **gabinfante11@gmail.com**
 
 <!--
 **dev-gabb-711/dev-gabb-711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
