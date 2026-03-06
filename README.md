@@ -15,7 +15,7 @@ Outside of programming, I enjoy **playing the piano, gaming, reading fiction**, 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,python,html,css,js,matlab)](https://skillicons.dev)
 
 ### ⚙️ Libraries / Tools / Frameworks I've Worked With
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,mysql,mongodb,flask,nodejs,github,dotnet,express,bootstrap,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,mysql,mongodb,flask,nodejs,dotnet,express,bootstrap,jquery)](https://skillicons.dev)
 
 ### 🚀 About Me
 
