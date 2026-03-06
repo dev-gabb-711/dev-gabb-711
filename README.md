@@ -1,6 +1,6 @@
 # Hello, World! ✨
 
-I am Gabb (Gabriel)
+I am **Gabb (Gabriel)**
 
 A second-year, DLSU BS Computer Science student, major in Computer Systems Engineering
 
